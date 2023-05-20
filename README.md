@@ -1,7 +1,5 @@
 # pandas
 
-Data & Code associated with my tutorial video on the pandas library of Python.
+This is a practical work on data analysis. The data and code were obtained from Keith Galli (YouTube). I followed the video and made some code changes.
 
 Video found here: https://youtu.be/vmEHCJofslg
-
-If you have any trouble with this repo, probably leaving a comment on the video is the best way to reach me and I'll try to resolve the issue as soon as possible!
